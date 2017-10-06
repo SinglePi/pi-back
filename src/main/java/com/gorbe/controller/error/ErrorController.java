@@ -1,4 +1,4 @@
-package com.gorbe.controller;
+package com.gorbe.controller.error;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
